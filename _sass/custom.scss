@@ -29,3 +29,29 @@
 .page {
   min-height: calc(100vh - 220px);
 }
+
+/* Fix mobile header overlap */
+@media screen and (max-width: 768px) {
+  .visible-links {
+    display: none !important;
+  }
+
+  .greedy-nav .hidden-links {
+    right: 0 !important;
+  }
+
+  .greedy-nav .greedy-nav__toggle {
+    display: block !important;
+  }
+
+  .masthead__inner-wrap {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  .site-title {
+    max-width: 55%;
+    white-space: normal;
+    line-height: 1.15;
+  }
+}
