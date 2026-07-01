@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   if (followButton && authorUrls) {
     followButton.addEventListener("click", function () {
-      authorUrls.classList.toggle("is--visible");
+      authorUrls.style.display = authorUrls.style.display === "block" ? "none" : "block";
     });
   }
 });
