@@ -17,7 +17,6 @@
   font-size: 0.9em;
 }
 
-/* Make footer behave like normal page content, not sticky */
 .page__footer {
   position: static !important;
   bottom: auto !important;
@@ -25,4 +24,8 @@
   background-color: #fff !important;
   border-top: none !important;
   margin-top: 5rem;
+}
+
+.page {
+  min-height: calc(100vh - 260px);
 }
