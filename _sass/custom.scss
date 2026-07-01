@@ -1,11 +1,9 @@
 /* Footer */
 .page__footer {
   position: static !important;
-  bottom: auto !important;
-  width: 100%;
   background: #fff !important;
   border-top: none !important;
-  margin-top: 6rem;
+  margin-top: 9rem;
 }
 
 .page__footer-follow {
@@ -14,29 +12,25 @@
 
 .page__footer-copyright {
   background: #fff !important;
-  color: #888;
+  color: #999;
   text-align: center;
   padding: 2rem 0;
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
-/* Fix mobile header overlap */
+/* Mobile header fix */
 @media screen and (max-width: 768px) {
-  .visible-links {
+  .greedy-nav .visible-links li:not(.masthead__menu-item--lg) {
     display: none !important;
   }
 
-  .greedy-nav .greedy-nav__toggle {
+  .greedy-nav button.greedy-nav__toggle {
     display: block !important;
-  }
-
-  .masthead__inner-wrap {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    visibility: visible !important;
   }
 
   .site-title {
-    max-width: 65%;
+    max-width: 70%;
     white-space: normal;
     line-height: 1.15;
   }
