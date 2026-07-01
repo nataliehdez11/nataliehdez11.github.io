@@ -16,3 +16,13 @@
   padding: 2rem 0;
   font-size: 0.9em;
 }
+
+/* Make footer behave like normal page content, not sticky */
+.page__footer {
+  position: static !important;
+  bottom: auto !important;
+  width: 100%;
+  background-color: #fff !important;
+  border-top: none !important;
+  margin-top: 5rem;
+}
