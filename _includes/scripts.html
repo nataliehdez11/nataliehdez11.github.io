@@ -1,5 +1,18 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var followButton = document.querySelector(".author__urls-wrapper button");
+  var authorUrls = document.querySelector(".author__urls");
+
+  if (followButton && authorUrls) {
+    followButton.addEventListener("click", function () {
+      authorUrls.classList.toggle("is--visible");
+    });
+  }
+});
+</script>
+
 {% include analytics.html %}
 
 {% include comments-providers/scripts.html %}
