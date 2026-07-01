@@ -1,43 +1,29 @@
 /* Footer */
 .page__footer {
-  background: #fff;
-  border-top: none;
-  margin-top: 5rem;
+  position: static !important;
+  bottom: auto !important;
+  width: 100%;
+  background: #fff !important;
+  border-top: none !important;
+  margin-top: 6rem;
 }
 
 .page__footer-follow {
-  display: none;
+  display: none !important;
 }
 
 .page__footer-copyright {
-  background: #fff;
+  background: #fff !important;
   color: #888;
   text-align: center;
   padding: 2rem 0;
   font-size: 0.9em;
 }
 
-.page__footer {
-  position: static !important;
-  bottom: auto !important;
-  width: 100%;
-  background-color: #fff !important;
-  border-top: none !important;
-  margin-top: 5rem;
-}
-
-.page {
-  min-height: calc(100vh - 220px);
-}
-
 /* Fix mobile header overlap */
 @media screen and (max-width: 768px) {
   .visible-links {
     display: none !important;
-  }
-
-  .greedy-nav .hidden-links {
-    right: 0 !important;
   }
 
   .greedy-nav .greedy-nav__toggle {
@@ -50,7 +36,7 @@
   }
 
   .site-title {
-    max-width: 55%;
+    max-width: 65%;
     white-space: normal;
     line-height: 1.15;
   }
