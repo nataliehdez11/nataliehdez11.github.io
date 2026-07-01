@@ -18,20 +18,15 @@
   font-size: 0.85em;
 }
 
-/* Mobile header fix */
+/* Mobile header: keep default AcademicPages behavior */
 @media screen and (max-width: 768px) {
-  .greedy-nav .visible-links li:not(.masthead__menu-item--lg) {
-    display: none !important;
-  }
-
-  .greedy-nav button.greedy-nav__toggle {
-    display: block !important;
-    visibility: visible !important;
-  }
-
   .site-title {
-    max-width: 70%;
+    max-width: 50%;
     white-space: normal;
     line-height: 1.15;
+  }
+
+  .masthead__menu-item {
+    font-size: 0.85em;
   }
 }
