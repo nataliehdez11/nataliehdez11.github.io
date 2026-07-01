@@ -26,6 +26,6 @@ Hernandez, Natalie. "Asymmetric Representation: Post-*Roe* Abortion Policy and P
 
 ## Selected Work in Progress
 
-Hernandez, Natalie. "The Impact of Entertainment Media on Abortion Attitudes."
+"The Impact of Entertainment Media on Abortion Attitudes."
 
-Hernandez, Natalie. "The Role of Peer-to-Peer Conversations on Bringing Men into the Abortion Conversation: Evidence from a Multi-Year Field Experiment." *(In the field.)*
+"The Role of Peer-to-Peer Conversations on Bringing Men into the Abortion Conversation: Evidence from a Multi-Year Field Experiment."
