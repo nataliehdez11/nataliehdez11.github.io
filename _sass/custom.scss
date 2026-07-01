@@ -18,15 +18,3 @@
   font-size: 0.85em;
 }
 
-/* Mobile header: keep default AcademicPages behavior */
-@media screen and (max-width: 768px) {
-  .site-title {
-    max-width: 50%;
-    white-space: normal;
-    line-height: 1.15;
-  }
-
-  .masthead__menu-item {
-    font-size: 0.85em;
-  }
-}
