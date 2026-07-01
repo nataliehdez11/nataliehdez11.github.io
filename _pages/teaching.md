@@ -4,13 +4,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-During my Ph.D. at Yale University, I served as a Teaching Fellow in courses on American politics, gender and politics, quantitative methods, and introductory statistics.
+During my Ph.D., I served as a Teaching Fellow in courses on American politics, gender and politics, quantitative methods, and introductory statistics.
 
-## Teaching Experience
+## Teaching Fellow Experience 
 
 ### PLSC 214: The Politics of American Public Policy
-
-**Teaching Fellow**
 
 *Instructor: Jacob Hacker*
 
@@ -20,8 +18,6 @@ An introduction to the politics of public policy in the United States and the me
 
 ### PLSC 203: Women, Politics, and Policy
 
-**Teaching Fellow**
-
 *Instructor: Andrea Aldrich*
 
 An introduction to how gender shapes politics and public policy. Topics include women's political representation, political institutions, public opinion, and gendered policymaking while introducing students to empirical research methods in political science.
@@ -30,8 +26,6 @@ An introduction to how gender shapes politics and public policy. Topics include 
 
 ### PLSC 438/536: Applied Quantitative Research Design
 
-**Teaching Fellow**
-
 *Instructor: Shiro Kuriwaki*
 
 An advanced undergraduate and graduate course on quantitative research design. Students learn best practices in causal inference, prediction, and missing data through hands-on programming and statistical analysis applied to questions in politics, economics, and public policy.
@@ -39,8 +33,6 @@ An advanced undergraduate and graduate course on quantitative research design. S
 ---
 
 ### S&DS 100/500: Introductory Statistics
-
-**Teaching Fellow**
 
 *Instructor: Ethan Meyers*
 
