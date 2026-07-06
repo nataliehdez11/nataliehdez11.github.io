@@ -7,6 +7,7 @@ author_profile: true
 ## Working Papers
 
 Hernandez, Natalie. "Asymmetric Representation: Post-*Roe* Abortion Policy and Public Opinion in the U.S. States." Revise and Resubmit, *American Political Science Review.*
+- Coverage: [Not Another Politics Podcast](https://open.spotify.com/episode/1hAYCy82XA0S948iKFktaC?si=61-9uBrZSw622sQS404ryA&nd=1&dlsi=58966413403e4fa4))
 
 ## Publications
 
