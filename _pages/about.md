@@ -14,4 +14,4 @@ My research examines questions around representation, public opinion, persuasion
 2. To what extent does post-Roe abortion policy align with public preferences, and when and why does it diverge?
 3. Can life events or external forces change those preferences?
 
-My work has been published in the *American Journal of Political Science*, *Political Behavior*, *Public Opinion Quarterly* and *American Politics Research*. Prior to attending Yale, I worked at the Boston Consulting Group (BCG) and earned my B.A. in Political Science and Spanish from the University of Pennsylvania.
+My work has been published or conditionally accepted in the *American Political Science Review*, *American Journal of Political Science*, *Public Opinion Quarterly*, *Political Behavior*, and *American Politics Research*. Prior to attending Yale, I worked at the Boston Consulting Group (BCG) and earned my B.A. in Political Science and Spanish from the University of Pennsylvania.
