@@ -4,12 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Working Papers
-
-Hernandez, Natalie. "Asymmetric Representation: Post-*Roe* Abortion Policy and Public Opinion in the U.S. States." Conditionally accepted, *American Political Science Review.*
-- Coverage: [Not Another Politics Podcast](https://open.spotify.com/episode/1hAYCy82XA0S948iKFktaC?si=61-9uBrZSw622sQS404ryA&nd=1&dlsi=58966413403e4fa4)
-
 ## Publications
+
+Conditionally accepted. Hernandez, Natalie. "Asymmetric Representation: Post-*Roe* Abortion Policy and Public Opinion in the U.S. States." Conditionally accepted, *American Political Science Review.*
+- Coverage: [Not Another Politics Podcast](https://open.spotify.com/episode/1hAYCy82XA0S948iKFktaC?si=61-9uBrZSw622sQS404ryA&nd=1&dlsi=58966413403e4fa4)
 
 2026\. Hernandez, Natalie. ["Simplified or Misunderstood? Rethinking How We Measure Americans' Abortion Attitudes in the Post-*Roe* Era."](https://academic.oup.com/poq/advance-article/doi/10.1093/poq/nfag050/8712744) *Public Opinion Quarterly.*
 
