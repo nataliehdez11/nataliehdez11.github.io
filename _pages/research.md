@@ -3,7 +3,6 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-
 ## Publications
 
 Hernandez, Natalie. Conditionally Accepted. "Asymmetric Representation: Post-*Roe* Abortion Policy and Public Opinion in the U.S. States." *American Political Science Review.* 
