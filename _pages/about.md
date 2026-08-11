@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Agora Academy Postdoctoral Fellow at the SNF Agora Institute at Johns Hopkins University. I received my Ph.D. in Political Science from Yale University in May 2026 with Departmental Distinction.
+Welcome! I am an Agora Academy Postdoctoral Fellow at the SNF Agora Institute at Johns Hopkins University. I received my Ph.D. in Political Science from Yale University in May 2026 with Departmental Distinction.
 
 My research examines questions around representation, public opinion, persuasion, and gender, with a current focus on abortion policy in the post-*Roe v. Wade* era. My dissertation and ongoing projects address three interrelated questions:
 1. Do Americans have meaningful preferences on abortion—an essential condition for democratic representation?
