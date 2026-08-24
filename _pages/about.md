@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Agora Academy Postdoctoral Fellow at the SNF Agora Institute at Johns Hopkins University. I received my Ph.D. in Political Science from Yale University in May 2026 with Departmental Distinction.
+Welcome! I am an Agora Academy Postdoctoral Fellow at the SNF Agora Institute at Johns Hopkins University. I received my Ph.D. in Political Science from Yale University in May 2026, where I graduated with departmental distinction.
 
-My research examines questions around representation, public opinion, persuasion, and gender, with a current focus on abortion policy in the post-*Roe v. Wade* era. My dissertation and ongoing projects address three interrelated questions:
-1. Do Americans have meaningful preferences on abortion—an essential condition for democratic representation?
-2. To what extent does post-Roe abortion policy align with public preferences, and when and why does it diverge?
-3. Can life events or external forces change those preferences?
+My research centers on political representation, public opinion, and persuasion, with a current focus on abortion policy in the post-*Roe v. Wade* era. Much of my work asks whether Americans hold meaningful policy preferences, how well public policy reflects those preferences, and when political attitudes and behavior can change in response to life experiences, political events, or persuasive interventions.
 
-My work has been published or conditionally accepted in the *American Political Science Review*, *American Journal of Political Science*, *Public Opinion Quarterly*, *Political Behavior*, and *American Politics Research*. Prior to attending Yale, I worked at the Boston Consulting Group (BCG) and earned my B.A. in Political Science and Spanish from the University of Pennsylvania.
+To study these questions, I use large-scale surveys, panel data, survey and field experiments, and original approaches to measuring public opinion. My research is published in the *American Journal of Political Science*, *Public Opinion Quarterly*, *Political Behavior*, and *American Politics Research*, and is conditionally accepted at the *American Political Science Review*.
+
+Before graduate school, I worked at the Boston Consulting Group. I received my B.A. in Political Science and Spanish from the University of Pennsylvania.
