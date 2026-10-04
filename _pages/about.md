@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Agora Academy Postdoctoral Fellow at the SNF Agora Institute at Johns Hopkins University. I received my Ph.D. with departmental distinction in Political Science from Yale University in May 2026. 
+Welcome! I am an Agora Academy Postdoctoral Fellow at the SNF Agora Institute at Johns Hopkins University. I received my Ph.D. with departmental distinction in Political Science from Yale University in May 2026. **I am on the AY26-27 TT job market.**
 
 I study representation, public opinion, and political behavior in the United States, with a focus on abortion policy in the post-Dobbs era. My current research agenda addresses three interrelated questions: To what extent does state-level policy align with state-level public preferences, and when and why does it diverge? Do Americans have meaningful preferences on these policies? And can life events or external forces change those preferences?
 
